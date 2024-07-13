@@ -1,4 +1,4 @@
-# refine-project
+# frontend
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
@@ -20,19 +20,19 @@ Refine's hooks and components simplifies the development process and eliminates 
 ### Running the development server.
 
 ```bash
-    npm run dev
+    yarn dev
 ```
 
 ### Building for production.
 
 ```bash
-    npm run build
+    yarn build
 ```
 
 ### Running the production server.
 
 ```bash
-    npm run start
+    yarn start
 ```
 
 ## Learn More

@@ -4,12 +4,12 @@ import { ColorModeContext } from "@contexts/color-mode";
 import type { RefineThemedLayoutV2HeaderProps } from "@refinedev/antd";
 import { useGetIdentity } from "@refinedev/core";
 import {
-  Avatar,
   Layout as AntdLayout,
+  Avatar,
   Space,
   Switch,
-  theme,
   Typography,
+  theme,
 } from "antd";
 import React, { useContext } from "react";
 
